@@ -23,6 +23,7 @@ The goal of this challenge was to delve into various aspects of the Document Obj
 
 This project allowed us, as beginners in our second month of coding, to put into practice the foundational javaScript concepts we've learned so far. We got hands-on experience with variables, conditions, loops, arrays, objects, and functions. It was a great way to solidify our understanding of these core programming elements while working on a real-world project.
 
+## Project Status
 Although we wished we could have taken it further, we had limited time, and this was only our second collaborative project. In this regard, it was an invaluable opportunity to learn about collaboration and using Git for version control in a team setting, and we had a lot of fun!
 
 <br> 
