@@ -1,6 +1,6 @@
 # Dark Kitchen
 - `Repository:` [dark-kitchen](https://github.com/leilaZ1111/dark-kitchen)
-- `Vercel deployment:` [Visit Now](https://dark-kitchen-one.vercel.app/)
+- `Netlify deployment:` [Visit Now](https://cls-dark-kitchen.netlify.app/)
   
 ## Description
 Two months into our training, our team was given the challenge to build a single-page website for online food delivery. The goal was to create a visually appealing platform that provides a delightful experience for users. 
